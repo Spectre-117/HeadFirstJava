@@ -1,0 +1,7 @@
+Version 2.0
+Simple version - use only one line
+sheep is represented as array of three cells
+in bounds of seven possible cells to set the sheep
+Standard array for the sheep altered into ArrayList<>
+to simplify behaviour when you choose already chosen cell before
+and for decreasing the capacity of the ArrayList to simplify examination if you already sank the sheep

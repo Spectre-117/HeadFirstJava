@@ -1,0 +1,5 @@
+Version 3.0
+Full version - use one 10 lines and 10 rows
+sheep is represented as array of three cells
+
+Standard array for the sheep altered into ArrayList<>
